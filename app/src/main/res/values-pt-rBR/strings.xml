@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PlacApp</string>
+    <string name="label_home">Casa</string>
+    <string name="label_away">Visitante</string>
+    <string name="label_start_game">Começar</string>
+    <string name="label_title">Clubes</string>
+    <string name="hint_home">Ex: Sao Paulo</string>
+    <string name="hint_away">Ex: Palmeiras</string>
+    <string name="label_go">GOL</string>
+</resources>
